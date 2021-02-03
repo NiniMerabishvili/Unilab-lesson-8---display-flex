@@ -1,0 +1,112 @@
+.list {
+	font-size: 24px;
+	color: #3D58A6;
+	font-family: 'Roboto';
+}
+.myheader {
+	display: flex;
+	justify-content: space-around;
+}
+.wraper-ul {
+	display: flex;
+	justify-content: space-between;
+	width: 406px;
+}
+.navigation {
+	display: flex;
+	align-items: center;
+}
+.icons {
+	font-size: 30px;
+	color: #3D58A6;
+	width: 200px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.icons:last-child {
+	color: #EE4036;
+}
+.fa-facebook-f:after {
+	font-size: 30px;
+	content: '';
+	width: 2px;
+	height: 30px;
+	background-color: blue;
+
+}
+.fa-youtube::after {
+	content: '';
+	width: 2px;
+	height: 30px;
+	background-color: blue;
+}
+.fa-search::after {
+	content: '';
+	width: 2px;
+	height: 30px;
+	background-color: blue;
+}
+.fa-google-plus-g::after {
+	content: '';
+	width: 2px;
+	height: 30px;
+	background-color: blue;
+}
+
+/*section1*/
+.bg-image {
+	background-image: url("file:///C:/Users/nini_/OneDrive/Desktop/Unilab-lesson-8---display-flex/img/main%20image%20of%20computer.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+	height: 460px;
+	display: flex;
+	justify-content: flex-start;
+	align-items: flex-end;
+	padding: 35px;
+	margin-left: 98px;
+}
+.title {
+	font-size: 30px;
+	color: #E6E6E6;
+	width: 339px;
+	font-family: 'Roboto';
+}
+.section1 {
+	padding: 30px; 
+	background-color: #E6E6E6;
+	margin-top: 30px;
+}
+
+/*section2*/
+.p1 {
+	font-size: 16.85px;
+	color: #231F20;
+	font-family: 'Roboto';
+}
+.box {
+	background-color: #F2F2F2;
+	width: 570px;
+	height: 320px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.wraper-box {
+	display: flex;
+	justify-content: space-between;
+	margin-top: 27.78px;
+}
+.section1box {
+	width: 1170px;
+	margin: 0 auto;
+}
+.section2 {
+	background-color: #363E97;
+}
+.title2 {
+	font-size: 24px;
+	color: #FFFFFF;
+	font-family: 'Roboto';
+	padding-top: 29.97px;
+}
