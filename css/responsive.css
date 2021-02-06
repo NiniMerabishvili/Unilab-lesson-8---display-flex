@@ -1,0 +1,190 @@
+@media (max-width: 480px) {
+	.navigation {
+		display: none;
+	}
+	.icons {
+		display: none;
+	}
+	.myheader {
+		display: flex;
+		justify-content: space-between;
+	}
+	.fa-bars {
+		display: block;
+	}
+	.logo {
+		width: 150px;
+	}
+	.title {
+		color: black;
+		width: 300px; 
+		font-size: 25px;
+		margin-left: -25px;
+	}
+	.bg-image {
+		height: 300px;
+		width: 420px;
+	}
+	.wraper-box {
+		display: flex;
+		flex-direction: column;
+	}
+	.box {
+		width: 420px;
+		margin-left: 18px;
+		margin-bottom: 20px;
+	}
+	.title2 {
+		margin-left: 18px;
+	}
+	.wraperdiv3 {
+		display: flex;
+		flex-direction: column;
+		margin-left: 18px;
+		margin-bottom: 30px; 
+		margin-left: 18px;
+	}
+	.TypographyLab {
+		width: 410px;
+	}
+	.onlinemarketing{
+		width: 410px;
+	}
+	.cooding {
+		width: 410px;
+	}
+	.interface {
+		width: 410px;
+	}
+	.box3 {
+		width: 410px;
+		height: 400px;
+	}
+	.title3 {
+		margin-left: 18px;
+	}
+	.maindiv4 {
+		flex-direction: column;
+	}
+	.box4 {
+		width: 420px;
+		margin-top: 20px;
+		margin-left: 15px;
+		padding: 20px;
+	}
+	.featuredicon {
+		width: 50px;
+	}
+	.footerdiv {
+		display: flex;
+		flex-direction: column;
+		margin-left: 18px;
+	}
+	.container {
+		width: 380px;
+	}
+}
+/*
+@media (max-width: 320px) {
+	.title {
+		color: black;
+		width: 100px;
+	}
+	.navigation {
+		display: none;
+	}
+	.icons {
+		display: none;
+	}
+	.logo {
+		width: 100px;
+	}
+	.fa-bars {
+		display: block;
+	}
+	.myheader {
+		justify-content: space-between;
+	}
+	.wraper-box {
+		display: flex;
+		flex-direction: column;
+	}
+	.title {
+		color: black;
+		width: 200px; 
+		font-size: 20px;
+		margin-left: -25px;
+	}
+	.bg-image {
+		height: 240px;
+		width: 260px;
+		margin-left: -5px;
+	}
+	.wraper-box {
+		display: flex;
+		flex-direction: column;
+	}
+	.box {
+		width: 250px;
+		margin-left: 18px;
+		margin-bottom: 20px;
+	}
+	.p1 {
+		width: 150px;
+	} 
+	.title2 {
+		margin-left: 18px;
+	}
+	.wraperdiv3 {
+		display: flex;
+		flex-direction: column;
+		margin-left: 18px;
+		margin-bottom: 30px; 
+		margin-left: 18px;
+	}
+	.TypographyLab {
+		width: 250px;
+	}
+	.onlinemarketing{
+		width: 250px;
+	}
+	.cooding {
+		width: 250px;
+	}
+	.interface {
+		width: 250px;
+	}
+	.box3 {
+		width: 250px;
+		height: 250px;
+	}
+	.title3 {
+		margin-left: 18px;
+	}
+	.maindiv4 {
+		flex-direction: column;
+	}
+	.box4 {
+		width: 250px;
+		margin-top: 20px;
+		margin-left: 15px;
+		padding: 20px;
+	}
+	.title4 {
+		font-size: 26px;
+		width: 100px;
+		margin-left: 18px;
+		padding-top: -10px;
+	}
+	.featuredicon {
+		width: 50px;
+	}
+	.footerdiv {
+		display: flex;
+		flex-direction: column;
+		margin-left: 18px;
+	}
+	.container {
+		width: 270px;
+	}
+}*/
